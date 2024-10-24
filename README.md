@@ -1,3 +1,5 @@
+<a href="https://datahub.io/core/owid-datasets"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+
 # OWID Dataset Collection
 
 The data format and organization of this repository isn't yet finalized, use with caution!
